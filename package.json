@@ -2,6 +2,7 @@
   "name": "cicd-pipeline-boiler",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://allanzou9833.github.io/cicd-pipeline/",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
